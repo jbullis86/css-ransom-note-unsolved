@@ -83,222 +83,715 @@ body {
 /* DID word */
 
 .didDLetter {
+   font-size: 15px;
+  font-weight: 
+  color; #0e0d0d
+  -moz-transform: scaleX (-1)
+  text-transform: uppercase;
+  font-family: 'fantacy', papyrus;
 }
 
 .didILetter {
+     font-size: 45px;
+  font-weight: lighter
+  color: #1d6d1d
+  text-decoration: bold
+  text-transform: lighter
+  font-family: 
 }
 
 .didDTwoLetter {
+     font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  transform: scaleX(-1)
+  text-transform: 
+  font-family: 
 }
 
 /* THE word */
 
 .theTLetter {
+     font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 
 .theHLetter {
+     font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 
 .theELetter {
+     font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+ transform: scaleX(-1)
+  text-transform: 
+  font-family: 
 }
 
 /* FRONT-END word */
 
 .frontendFLetter {
+     font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 
 .frontendRLetter {
+     font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 
 .frontendOLetter {
+     font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 
 .frontendNLetter {
+     font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 
 .frontendTLetter {
+     font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 
 .frontendELetter {
+     font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 
 .frontendNTwoLetter {
+     font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 
 .frontendDLetter {
+     font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 
 /* DEVELOPER word */
 
 .developerDLetter {
+     font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 .developerELetter {
+     font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 .developerVLetter {
+     font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 .developerETwoLetter {
+     font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 .developerLLetter {
+     font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 .developerOLetter {
+     font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 .developerPLetter {
+     font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 .developerEThreeLetter {
+     font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 .developerRLetter {
+     font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 
 /* TAKE word */
 
 .takeTLetter {
+     font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 .takeALetter {
+     font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 .takeKLetter {
+     font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
-.takeELetter {
+.takeELetter {   font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 
 /* UP word */
 
 .upULetter {
+     font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 .upPLetter {
+     font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 
 /* GARDENING word */
 
 .gardeningGLetter {
+     font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 .gardeningALetter {
+     font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 .gardeningRLetter {
+     font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 .gardeningDLetter {
+     font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 .gardeningELetter {
+     font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 .gardeningNLetter {
+     font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 .gardeningILetter {
+     font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 .gardeningNTwoLetter {
+      font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 .gardeningGTwoLetter {
+      font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 
 /* BECAUSE word */
 
 .becauseBLetter {
+      font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 .becauseELetter {
+      font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 .becauseCLetter {
+      font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 .becauseALetter {
+      font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 .becauseULetter {
+      font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 .becauseSLetter {
+      font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 .becauseETwoLetter {
+      font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 
 /* THEY word */
 
 .theyTLetter {
+      font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 .theyHLetter {
+      font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 .theyELetter {
+      font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 .theyYLetter {
+      font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 
 /* WANTED word */
 
 .wantedWLetter {
+      font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 .wantedALetter {
+      font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 .wantedNLetter {
+      font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 .wantedTLetter {
+      font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 .wantedELetter {
+      font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 .wantedDLetter {
+      font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 
 /* TO word */
 
 .toTLetter {
+      font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 .toOLetter {
+      font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 
 /* IMPROVE word */
 
 .improveILetter {
+      font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 .improveMLetter {
+      font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 .improvePLetter {
+      font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 .improveRLetter {
+      font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 .improveOLetter {
+      font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 .improveVLetter {
+      font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 .improveELetter {
+      font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 
 /* THEIR word */
 
 .theirTLetter {
+      font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 .theirHLetter {
+      font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 .theirELetter {
+      font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 .theirILetter {
+      font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 .theirRLetter {
+      font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 
 /* ROOT word */
 
 .rootRLetter {
+      font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 .rootOLetter {
+      font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 .rootOTwoLetter {
+      font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 .rootTLetter {
+      font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 
 /* SKILLS word */
 
 .skillsSLetter {
+      font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 .skillsKLetter {
+      font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 .skillsILetter {
+      font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 .skillsLLetter {
+      font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 .skillsLTwoLetter {
+      font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 .skillsSTwoLetter {
+      font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 
 /* SYMBOLS */
 
 .hyphen {
+      font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 .exclamation-mark {
+      font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
 .question-mark {
+      font-size: 
+  font-weight: 
+  color: coral;
+  text-decoration:
+  text-transform: 
+  font-family: 
 }
