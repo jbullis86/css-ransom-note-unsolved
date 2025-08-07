@@ -84,41 +84,33 @@ body {
 
 .didDLetter {
    font-size: 15px;
-  font-weight: 
-  color; #0e0d0d
-  -moz-transform: scaleX (-1)
+ color: coral;
   text-transform: uppercase;
   font-family: 'fantacy', papyrus;
 }
 
 .didILetter {
      font-size: 45px;
-  font-weight: lighter
-  color: #1d6d1d
-  text-decoration: bold
-  text-transform: lighter
-  font-family: 
+  font-weight: lighter;
+  color-background: white;
+  color: #1d6d1d;
+  text-decoration: bold;
+  text-transform: lighter;
 }
 
 .didDTwoLetter {
-     font-size: 
-  font-weight: 
-  color: coral;
-  text-decoration:
-  transform: scaleX(-1)
-  text-transform: 
-  font-family: 
+     font-size: 14px; 
+  color: rgb(35, 59, 30);
 }
 
 /* THE word */
 
 .theTLetter {
-     font-size: 
-  font-weight: 
-  color: coral;
-  text-decoration:
-  text-transform: 
-  font-family: 
+     font-size: 40px;
+  font-weight: bold;
+  color: rgb(68, 41, 190);
+  text-decoration-line: line-through;
+  transform: rotate(180deg)
 }
 
 .theHLetter {
@@ -132,11 +124,11 @@ body {
 
 .theELetter {
      font-size: 
-  font-weight: 
+  font-weight: large
   color: coral;
-  text-decoration:
- transform: scaleX(-1)
-  text-transform: 
+  display: inline-block;
+  transform: scale(-1, 1);
+  text-decoration: normal       
   font-family: 
 }
 
