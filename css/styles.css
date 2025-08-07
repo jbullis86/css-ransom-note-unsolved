@@ -92,10 +92,10 @@ body {
 .didILetter {
      font-size: 45px;
   font-weight: lighter;
-  color-background: white;
   color: #1d6d1d;
   text-decoration: bold;
   text-transform: lighter;
+  transform: rotateX('90');
 }
 
 .didDTwoLetter {
@@ -110,37 +110,30 @@ body {
   font-weight: bold;
   color: rgb(68, 41, 190);
   text-decoration-line: line-through;
-  transform: rotate(180deg)
+  transform: rotate(0.5turn);
 }
 
 .theHLetter {
-     font-size: 
-  font-weight: 
-  color: coral;
-  text-decoration:
-  text-transform: 
-  font-family: 
+     font-size: 10px;
+  color: rgb(235, 135, 152);
 }
 
 .theELetter {
-     font-size: 
-  font-weight: large
+     font-size: 50px;
+  font-weight: large;
   color: coral;
   display: inline-block;
   transform: scale(-1, 1);
-  text-decoration: normal       
-  font-family: 
+  text-decoration: normal;
 }
 
 /* FRONT-END word */
 
 .frontendFLetter {
-     font-size: 
-  font-weight: 
-  color: coral;
-  text-decoration:
-  text-transform: 
-  font-family: 
+     font-size: 35px;
+  font-weight: bolder;
+  color: blue;
+  text-transform: rotate(180 deg);
 }
 
 .frontendRLetter {
