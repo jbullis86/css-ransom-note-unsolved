@@ -106,9 +106,10 @@ body {
 /* THE word */
 
 .theTLetter {
-     font-size: 40px;
+  display: inline;   
+  font-size: 40px;
   font-weight: bold;
-  color: rgb(68, 41, 190);
+  color: rgb(207, 230, 81);
   text-decoration-line: line-through;
   transform: rotate(0.5turn);
 }
@@ -123,7 +124,7 @@ body {
   font-weight: large;
   color: coral;
   display: inline-block;
-  transform: scale(-1, 1);
+  transform: scale(-1);
   text-decoration: normal;
 }
 
@@ -137,39 +138,25 @@ body {
 }
 
 .frontendRLetter {
-     font-size: 
-  font-weight: 
-  color: coral;
-  text-decoration:
-  text-transform: 
-  font-family: 
+     font-size: 60px;
+  font-weight: light;
+  color: tan;
 }
 
 .frontendOLetter {
-     font-size: 
-  font-weight: 
-  color: coral;
-  text-decoration:
-  text-transform: 
-  font-family: 
+     font-size: 20px;
+  text-shadow: 5px 0px #558abb;
 }
 
 .frontendNLetter {
-     font-size: 
-  font-weight: 
-  color: coral;
-  text-decoration:
-  text-transform: 
-  font-family: 
+  font-weight: lighter;
+  color: black;
+  text-shadow: 30px 1px blue;  
 }
 
 .frontendTLetter {
-     font-size: 
-  font-weight: 
-  color: coral;
-  text-decoration:
-  text-transform: 
-  font-family: 
+      color: midnightblue;
+  filter: drop-shadow(0 0 3px magenta);
 }
 
 .frontendELetter {
