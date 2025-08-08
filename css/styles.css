@@ -111,7 +111,7 @@ body {
   font-weight: bold;
   color: rgb(207, 230, 81);
   text-decoration-line: line-through;
-  transform: rotate(0.5turn);
+  transform: rotate(0.5turn) forwards;
 }
 
 .theHLetter {
@@ -125,7 +125,7 @@ body {
   color: coral;
   display: inline-block;
   transform: scale(-1);
-  text-decoration: normal;
+  text-decoration: underline;
 }
 
 /* FRONT-END word */
@@ -134,7 +134,7 @@ body {
      font-size: 35px;
   font-weight: bolder;
   color: blue;
-  text-transform: rotate(180 deg);
+  text-transform: rotate(180 deg) forwards;
 }
 
 .frontendRLetter {
@@ -160,12 +160,8 @@ body {
 }
 
 .frontendELetter {
-     font-size: 
-  font-weight: 
-  color: coral;
-  text-decoration:
-  text-transform: 
-  font-family: 
+     font-size: 80px;
+  color: yellow;
 }
 
 .frontendNTwoLetter {
