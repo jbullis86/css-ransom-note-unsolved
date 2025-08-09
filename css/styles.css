@@ -248,7 +248,7 @@ body {
 .developerEThreeLetter {
      font-size: 19px;
   font-weight: none;
-  color: coral;
+  color: hsl(96.32, 35%, 22%);
   text-decoration: underline;
   text-transform: capitalize;
   font-family: 
@@ -256,7 +256,7 @@ body {
 .developerRLetter {
      font-size: 50;
   font-weight: bold;
-  color: coral;
+  color: #8f9530;
   text-decoration: none;
   text-transform: lowercase;
   font-family: 
@@ -267,7 +267,7 @@ body {
 .takeTLetter {
      font-size: 94px;
   font-weight: bolder;
-  color: coral;
+  color: rgb(5, 191, 110);
   text-decoration: none;
   text-transform: full-width;
   font-family: 
@@ -275,7 +275,7 @@ body {
 .takeALetter {
      font-size: 38px;
   font-weight: light;
-  color: coral;
+  color: #f2a65a;
   text-decoration: none;
   text-transform: none;
   font-family: 
@@ -283,7 +283,7 @@ body {
 .takeKLetter {
      font-size: 88px;
   font-weight: bold;
-  color: coral;
+  color: hsl(101.46, 78%, 75%);
   text-decoration: none;
   text-transform: capitalize;
   font-family: 
@@ -291,7 +291,7 @@ body {
 .takeELetter {   
   font-size: 55px;
   font-weight: bolder;
-  color: coral;
+  color: rgb(139, 192, 85);
   text-decoration: none;
   text-transform: 
   font-family: 
@@ -302,7 +302,7 @@ body {
 .upULetter {
      font-size: 78px;
   font-weight: none;
-  color: coral;
+  color: #8bf1f1;
   text-decoration: underline dotted;
   text-transform: lowercase;
   font-family: 
@@ -310,7 +310,7 @@ body {
 .upPLetter {
      font-size: 26px;
   font-weight: normal;
-  color: coral;
+  color: rgb(45, 228, 157);
   text-decoration: none;
   text-transform: lowercase;
   font-family: 
@@ -321,7 +321,7 @@ body {
 .gardeningGLetter {
      font-size: 100px;
   font-weight: lighter;
-  color: coral;
+  color: hsl(286.44, 83%, 42%);
   text-decoration: none;
   text-transform: capitalize;
   font-family: 
@@ -329,7 +329,7 @@ body {
 .gardeningALetter {
      font-size: 26px;
   font-weight: none;
-  color: coral;
+  color: #b7ef9e;
   text-decoration: none;
   text-transform: none;
   font-family: 
@@ -337,7 +337,7 @@ body {
 .gardeningRLetter {
      font-size: 69px;
   font-weight: bold;
-  color: coral;
+  color: rgb(185, 59, 171);
   text-decoration: none;
   text-transform: inherit;
   font-family: 
@@ -345,7 +345,7 @@ body {
 .gardeningDLetter {
      font-size: 22px;
   font-weight: bolder;
-  color: coral;
+  color: hsl(254.14, 75%, 64%);
   text-decoration: none;
   text-transform: initial;
   font-family: 
@@ -353,7 +353,7 @@ body {
 .gardeningELetter {
      font-size: 82px;
   font-weight: normal;
-  color: coral;
+  color: #063139;
   text-decoration: none;
   text-transform: revert;
   font-family: 
@@ -361,7 +361,7 @@ body {
 .gardeningNLetter {
      font-size: 46px;
   font-weight: none;
-  color: coral;
+  color: rgb(122, 129, 202);
   text-decoration: none;
   text-transform: 
   font-family: 
@@ -369,7 +369,7 @@ body {
 .gardeningILetter {
      font-size: 71px;
   font-weight: bold;
-  color: coral;
+  color: hsl(8.91, 98%, 60%);
   text-decoration:wavy underline;
   text-transform: unset;
   font-family: 
@@ -377,7 +377,7 @@ body {
 .gardeningNTwoLetter {
       font-size: 15px;
   font-weight: lighter;
-  color: coral;
+  color: #128d26;
   text-decoration: none;
   text-transform: capitalize;
   font-family: 
@@ -385,7 +385,7 @@ body {
 .gardeningGTwoLetter {
       font-size: 25px;
   font-weight: bold;
-  color: coral;
+  color: rgb(170, 241, 21);
   text-decoration: none;
   text-transform: lowercase;
   font-family: 
@@ -396,7 +396,7 @@ body {
 .becauseBLetter {
       font-size: 76px;
   font-weight: bolder;
-  color: coral;
+  color: hsl(66.91, 76%, 43%);
   text-decoration: none;
   text-transform: full-width;
   font-family: 
@@ -404,7 +404,7 @@ body {
 .becauseELetter {
       font-size: 15px;
   font-weight: lighter;
-  color: coral;
+  color: #08b1fa;
   text-decoration: none;
   text-transform: inherit;
   font-family: 
@@ -412,7 +412,7 @@ body {
 .becauseCLetter {
       font-size: 61px;
   font-weight: none;
-  color: coral;
+  color: rgb(252, 139, 88);
   text-decoration: underline overline;
   text-transform: inital;
   font-family: 
@@ -420,7 +420,7 @@ body {
 .becauseALetter {
       font-size: 44px;
   font-weight: normal;
-  color: coral;
+  color: hsl(206.37, 82%, 78%);
   text-decoration: none;
   text-transform: revert;
   font-family: 
@@ -428,15 +428,15 @@ body {
 .becauseULetter {
       font-size: 91px;
   font-weight: lighter;
-  color: coral;
+  color: #be06fb;
   text-decoration: none;
-  text-transform: revert-layer;
+  text-transform: revert;
   font-family: 
 }
 .becauseSLetter {
       font-size: 33px;
   font-weight: dark;
-  color: coral;
+  color: rgb(15, 60, 137);
   text-decoration: none;
   text-transform: unset;
   font-family: 
@@ -444,7 +444,7 @@ body {
 .becauseETwoLetter {
       font-size: 88px;
   font-weight: bold;
-  color: coral;
+  color: hsl(52.62, 54%, 56%)
   text-decoration: none;
   text-transform: none;
   font-family: 
@@ -455,7 +455,7 @@ body {
 .theyTLetter {
       font-size: 49px;
   font-weight: bolder;
-  color: coral;
+  color: #7f3be9;
   text-decoration: none;
   text-transform: lowercase;
   font-family: 
@@ -463,7 +463,7 @@ body {
 .theyHLetter {
       font-size: 55px;
   font-weight: bolder;
-  color: coral;
+  color: rgb(50, 120, 39);
   text-decoration: none;
   text-transform: 
   font-family: 
@@ -471,7 +471,7 @@ body {
 .theyELetter {
       font-size: 87px;
   font-weight: lighter;
-  color: coral;
+  color: hsl(55.65, 42%, 32%)
   text-decoration: none;
   text-transform: full-width;
   font-family: 
@@ -479,7 +479,7 @@ body {
 .theyYLetter {
       font-size: 27px;
   font-weight: dark;
-  color: coral;
+  color: rgb(110, 160, 183);
   text-decoration:underline;
   text-transform: inherit;
   font-family: 
@@ -490,7 +490,7 @@ body {
 .wantedWLetter {
       font-size: 61px;
   font-weight: none;
-  color: coral;
+  color: hsl(281.25, 45%, 58%);
   text-decoration: none;
   text-transform: initial;
   font-family: 
@@ -498,7 +498,7 @@ body {
 .wantedALetter {
       font-size: 42px;
   font-weight: normal;
-  color: coral;
+  color: #7497e2;
   text-decoration: none;
   text-transform: 
   font-family: 
@@ -506,7 +506,7 @@ body {
 .wantedNLetter {
       font-size:66; 
   font-weight: bold;
-  color: coral;
+  color: rgb(57, 77, 59);
   text-decoration: none;
   text-transform: revert;
   font-family: 
@@ -514,7 +514,7 @@ body {
 .wantedTLetter {
       font-size: 34px;
   font-weight: bolder;
-  color: coral;
+  color: hsl(54.83, 25%, 54%);
   text-decoration: none;
   text-transform: unset;
   font-family: 
@@ -522,7 +522,7 @@ body {
 .wantedELetter {
       font-size: 77px;
   font-weight: lighter;
-  color: coral;
+  color: 	#898e41;
   text-decoration: none;
   text-transform: none;
   font-family: 
@@ -530,7 +530,7 @@ body {
 .wantedDLetter {
       font-size: 27px;
   font-weight: dark;
-  color: coral;
+  color: rgb(233, 195, 178);
   text-decoration: none;
   text-transform: capitalize;
   font-family: 
@@ -541,7 +541,7 @@ body {
 .toTLetter {
       font-size: 93px;
   font-weight: normal;
-  color: coral;
+  color: #45c9ba;
   text-decoration: underline dotted;
   text-transform: full-width;
   font-family: 
@@ -549,7 +549,7 @@ body {
 .toOLetter {
       font-size: 26px;
   font-weight: none;
-  color: coral;
+  color: rgb(150, 227, 225)
   text-decoration: none;
   text-transform: inherit;
   font-family: 
@@ -560,7 +560,7 @@ body {
 .improveILetter {
       font-size: 64px;
   font-weight: bold;
-  color: coral;
+  color: hsl(226.15, 46%, 27%)
   text-decoration: none;
   text-transform: initial;
   font-family: 
@@ -568,7 +568,7 @@ body {
 .improveMLetter {
       font-size: 39px;
   font-weight: bolder;
-  color: coral;
+  color: #6f0d7f;
   text-decoration: none;
   text-transform: revert;
   font-family: 
@@ -576,7 +576,7 @@ body {
 .improvePLetter {
       font-size: 78px;
   font-weight: lighter;
-  color: coral;
+  color: rgb(235, 19, 20)
   text-decoration: line-through;
   text-transform: unset;
   font-family: 
@@ -584,7 +584,7 @@ body {
 .improveRLetter {
       font-size: 49px;
   font-weight: dark;
-  color: coral;
+  color: hsl(124.21, 98%, 23%);
   text-decoration: wavy underline;
   text-transform: none;
   font-family: 
@@ -592,7 +592,7 @@ body {
 .improveOLetter {
       font-size: 81px;
   font-weight: normal;
-  color: coral;
+  color: #288450;
   text-decoration: none;
   text-transform: capitalize;
   font-family: 
@@ -600,7 +600,7 @@ body {
 .improveVLetter {
       font-size: 32px;
   font-weight: none;
-  color: coral;
+  color: rgb(101, 221, 59);
   text-decoration: none;
   text-transform: lowercase;
   font-family: 
@@ -608,7 +608,7 @@ body {
 .improveELetter {
       font-size: 86px;
   font-weight: lighter;
-  color: coral;
+  color: hsl(305.93, 93%, 34%);
   text-decoration: none;
   text-transform: full-width;
   font-family: 
@@ -619,7 +619,7 @@ body {
 .theirTLetter {
       font-size: 17px;
   font-weight: bold;
-  color: coral;
+  color: #86913f;
   text-decoration: none;
   text-transform: revert;
   font-family: 
@@ -627,7 +627,7 @@ body {
 .theirHLetter {
       font-size: 72px;
   font-weight: bolder;
-  color: coral;
+  color: rgb(123, 60, 104);
   text-decoration: none;
   text-transform: unset;
   font-family: 
@@ -635,7 +635,7 @@ body {
 .theirELetter {
       font-size: 32px;
   font-weight: lighter;
-  color: coral;
+  color: hsl(208.09, 83%, 56%);
   text-decoration: none;
   text-transform: none;
   font-family: 
@@ -643,7 +643,7 @@ body {
 .theirILetter {
       font-size: 96px;
   font-weight: normal;
-  color: coral;
+  color: #89b46b;
   text-decoration: none;
   text-transform: uppercase;
   font-family: 
@@ -651,7 +651,7 @@ body {
 .theirRLetter {
       font-size: 46px;
   font-weight: none;
-  color: coral;
+  color: rgb(29, 99, 182);
   text-decoration: none;
   text-transform: lowercase;
   font-family: 
@@ -662,7 +662,7 @@ body {
 .rootRLetter {
       font-size: 76px;
   font-weight: dark;
-  color: coral;
+  color: hsl(339.3, 60%, 54%);
   text-decoration: none;
   text-transform: full-width;
   font-family: 
@@ -670,7 +670,7 @@ body {
 .rootOLetter {
       font-size: 16px;
   font-weight: bold;
-  color: coral;
+  color: #cc4614;
   text-decoration:underline overline;
   text-transform: inherit;
   font-family: 
@@ -678,7 +678,7 @@ body {
 .rootOTwoLetter {
       font-size: 86px;
   font-weight: bolder;
-  color: coral;
+  color: rgb(24, 70, 130);
   text-decoration: none;
   text-transform: initial;
   font-family: 
@@ -686,7 +686,7 @@ body {
 .rootTLetter {
       font-size: 32px;
   font-weight: lighter;
-  color: coral;
+  color: #188b82;
   text-decoration: none;
   text-transform: revert;
   font-family: 
@@ -697,7 +697,7 @@ body {
 .skillsSLetter {
       font-size: 92px;
   font-weight: none;
-  color: coral;
+  color: rgb(126, 199, 224);
   text-decoration: none;
   text-transform: unset;
   font-family: 
@@ -705,7 +705,7 @@ body {
 .skillsKLetter {
       font-size: 42px;
   font-weight: normal;
-  color: coral;
+  color: hsl(33.02, 61%, 69%);
   text-decoration: none;
   text-transform: none;
   font-family: 
@@ -713,7 +713,7 @@ body {
 .skillsILetter {
       font-size: 83px;
   font-weight: none;
-  color: coral;
+  color: #751a69;
   text-decoration:line-through;
   text-transform: uppercase;
   font-family: 
@@ -721,7 +721,7 @@ body {
 .skillsLLetter {
       font-size: 21px;
   font-weight: dark;
-  color: coral;
+  color: rgb(64, 240, 143);
   text-decoration: overline;
   text-transform: lowercase;
   font-family: 
@@ -729,7 +729,7 @@ body {
 .skillsLTwoLetter {
       font-size: 71px;
   font-weight: bold;
-  color: coral;
+  color: hsl(150.38, 70%, 55%);
   text-decoration: line-through;
   text-transform: full-width;
   font-family: 
@@ -737,7 +737,7 @@ body {
 .skillsSTwoLetter {
       font-size: 33px;
   font-weight: bolder;
-  color: coral;
+  color: #193aa2;
   text-decoration: none;
   text-transform: unset;
   font-family: 
@@ -748,7 +748,7 @@ body {
 .hyphen {
       font-size: 54px;
   font-weight: lighter;
-  color: coral;
+  color: rgb(100, 176, 182);
   text-decoration:
   text-transform: none;
   font-family: 
@@ -756,7 +756,7 @@ body {
 .exclamation-mark {
       font-size: 29;
   font-weight: normal;
-  color: coral;
+  color: hsl(341.52, 79%, 49%);
   text-decoration: dashed underline;
   text-transform: capitalize;
   font-family: 
@@ -764,7 +764,7 @@ body {
 .question-mark {
       font-size: 77px;
   font-weight: none;
-  color: coral;
+  color: #bfd81a;
   text-decoration: line-through;
   text-transform: none;
   font-family: 
