@@ -1,6 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Piazzolla&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Ceviche+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Raleway+Dots&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kablammo&family=Noto+Sans+JP:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&display=swap');
+
 
 * {
   padding: 0;
@@ -165,128 +168,131 @@ body {
 }
 
 .frontendNTwoLetter {
-     font-size: 
-  font-weight: 
-  color: coral;
-  text-decoration:
-  text-transform: 
-  font-family: 
+     font-size: 20px;
+      text-transform: rotate(180 deg) forwards;
+      animation-fill-mode: forwards;
 }
+ 
 
 .frontendDLetter {
-     font-size: 
-  font-weight: 
-  color: coral;
-  text-decoration:
-  text-transform: 
-  font-family: 
+     font-size: 60px;
+  isolation: isolate;
+  color: rgb(95, 147, 177);
 }
 
 /* DEVELOPER word */
 
 .developerDLetter {
-     font-size: 
-  font-weight: 
-  color: coral;
-  text-decoration:
-  text-transform: 
-  font-family: 
+     font-size: 40px;
+  font-weight: none;
+  color: rgb(57, 13, 128);
+  font-family: "Noto Sans JP", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
 }
+
 .developerELetter {
-     font-size: 
-  font-weight: 
+     font-size: 18px;
+  font-weight: 400;
   color: coral;
-  text-decoration:
-  text-transform: 
-  font-family: 
+  font-family: "Kablammo", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "MORF" 0;
 }
 .developerVLetter {
-     font-size: 
-  font-weight: 
-  color: coral;
-  text-decoration:
-  text-transform: 
-  font-family: 
+     font-size: 70px;
+  font-weight: none;
+  color: hsl(62, 100%, 27%);
+  text-decoration: underline;
+  text-transform: capitalize;
+  font-family: fangsong;
 }
 .developerETwoLetter {
-     font-size: 
-  font-weight: 
-  color: coral;
-  text-decoration:
-  text-transform: 
-  font-family: 
+     font-size: 25px;
+  font-weight: 700;
+  color: rgb(192, 57, 98);
+  text-decoration:overline;
+  text-transform: uppercase;
+  font-family: "Akaya Telivigala", system-ui;
+  font-weight: 400;
+  font-style: normal;
 }
 .developerLLetter {
-     font-size: 
-  font-weight: 
-  color: coral;
-  text-decoration:
-  text-transform: 
-  font-family: 
+     font-size: 99px;
+  font-weight: normal;
+  color: rgb(116, 86, 185);
+  text-decoration:none;
+  text-transform: full-width;
+  font-family: ui-monospace;
 }
 .developerOLetter {
-     font-size: 
-  font-weight: 
-  color: coral;
-  text-decoration:
-  text-transform: 
-  font-family: 
+     font-size: 43px;
+  font-weight: normal;
+  color: rgb(216, 213, 62);
+  text-decoration:line-through;
+  text-transform: transparent;
+  font-family: sans-serif;
 }
 .developerPLetter {
-     font-size: 
-  font-weight: 
-  color: coral;
-  text-decoration:
-  text-transform: 
+     font-size: 74px;
+  font-weight: lighter;
+  color: rgb(224, 7, 36);
+  text-decoration:overline;
+  text-transform: none;
   font-family: 
 }
 .developerEThreeLetter {
-     font-size: 
-  font-weight: 
+     font-size: 19px;
+  font-weight: none;
   color: coral;
-  text-decoration:
-  text-transform: 
+  text-decoration: underline;
+  text-transform: capitalize;
   font-family: 
 }
 .developerRLetter {
-     font-size: 
-  font-weight: 
+     font-size: 50;
+  font-weight: bold;
   color: coral;
-  text-decoration:
-  text-transform: 
+  text-decoration: none;
+  text-transform: lowercase;
   font-family: 
 }
 
 /* TAKE word */
 
 .takeTLetter {
-     font-size: 
-  font-weight: 
+     font-size: 94px;
+  font-weight: bolder;
   color: coral;
-  text-decoration:
-  text-transform: 
+  text-decoration: none;
+  text-transform: full-width;
   font-family: 
 }
 .takeALetter {
-     font-size: 
-  font-weight: 
+     font-size: 38px;
+  font-weight: light;
   color: coral;
-  text-decoration:
-  text-transform: 
+  text-decoration: none;
+  text-transform: none;
   font-family: 
 }
 .takeKLetter {
-     font-size: 
-  font-weight: 
+     font-size: 88px;
+  font-weight: bold;
   color: coral;
-  text-decoration:
-  text-transform: 
+  text-decoration: none;
+  text-transform: capitalize;
   font-family: 
 }
-.takeELetter {   font-size: 
-  font-weight: 
+.takeELetter {   
+  font-size: 55px;
+  font-weight: bolder;
   color: coral;
-  text-decoration:
+  text-decoration: none;
   text-transform: 
   font-family: 
 }
@@ -294,472 +300,472 @@ body {
 /* UP word */
 
 .upULetter {
-     font-size: 
-  font-weight: 
+     font-size: 78px;
+  font-weight: none;
   color: coral;
-  text-decoration:
-  text-transform: 
+  text-decoration: underline dotted;
+  text-transform: lowercase;
   font-family: 
 }
 .upPLetter {
-     font-size: 
-  font-weight: 
+     font-size: 26px;
+  font-weight: normal;
   color: coral;
-  text-decoration:
-  text-transform: 
+  text-decoration: none;
+  text-transform: lowercase;
   font-family: 
 }
 
 /* GARDENING word */
 
 .gardeningGLetter {
-     font-size: 
-  font-weight: 
+     font-size: 100px;
+  font-weight: lighter;
   color: coral;
-  text-decoration:
-  text-transform: 
+  text-decoration: none;
+  text-transform: capitalize;
   font-family: 
 }
 .gardeningALetter {
-     font-size: 
-  font-weight: 
+     font-size: 26px;
+  font-weight: none;
   color: coral;
-  text-decoration:
-  text-transform: 
+  text-decoration: none;
+  text-transform: none;
   font-family: 
 }
 .gardeningRLetter {
-     font-size: 
-  font-weight: 
+     font-size: 69px;
+  font-weight: bold;
   color: coral;
-  text-decoration:
-  text-transform: 
+  text-decoration: none;
+  text-transform: inherit;
   font-family: 
 }
 .gardeningDLetter {
-     font-size: 
-  font-weight: 
+     font-size: 22px;
+  font-weight: bolder;
   color: coral;
-  text-decoration:
-  text-transform: 
+  text-decoration: none;
+  text-transform: initial;
   font-family: 
 }
 .gardeningELetter {
-     font-size: 
-  font-weight: 
+     font-size: 82px;
+  font-weight: normal;
   color: coral;
-  text-decoration:
-  text-transform: 
+  text-decoration: none;
+  text-transform: revert;
   font-family: 
 }
 .gardeningNLetter {
-     font-size: 
-  font-weight: 
+     font-size: 46px;
+  font-weight: none;
   color: coral;
-  text-decoration:
+  text-decoration: none;
   text-transform: 
   font-family: 
 }
 .gardeningILetter {
-     font-size: 
-  font-weight: 
+     font-size: 71px;
+  font-weight: bold;
   color: coral;
-  text-decoration:
-  text-transform: 
+  text-decoration:wavy underline;
+  text-transform: unset;
   font-family: 
 }
 .gardeningNTwoLetter {
-      font-size: 
-  font-weight: 
+      font-size: 15px;
+  font-weight: lighter;
   color: coral;
-  text-decoration:
-  text-transform: 
+  text-decoration: none;
+  text-transform: capitalize;
   font-family: 
 }
 .gardeningGTwoLetter {
-      font-size: 
-  font-weight: 
+      font-size: 25px;
+  font-weight: bold;
   color: coral;
-  text-decoration:
-  text-transform: 
+  text-decoration: none;
+  text-transform: lowercase;
   font-family: 
 }
 
 /* BECAUSE word */
 
 .becauseBLetter {
-      font-size: 
-  font-weight: 
+      font-size: 76px;
+  font-weight: bolder;
   color: coral;
-  text-decoration:
-  text-transform: 
+  text-decoration: none;
+  text-transform: full-width;
   font-family: 
 }
 .becauseELetter {
-      font-size: 
-  font-weight: 
+      font-size: 15px;
+  font-weight: lighter;
   color: coral;
-  text-decoration:
-  text-transform: 
+  text-decoration: none;
+  text-transform: inherit;
   font-family: 
 }
 .becauseCLetter {
-      font-size: 
-  font-weight: 
+      font-size: 61px;
+  font-weight: none;
   color: coral;
-  text-decoration:
-  text-transform: 
+  text-decoration: underline overline;
+  text-transform: inital;
   font-family: 
 }
 .becauseALetter {
-      font-size: 
-  font-weight: 
+      font-size: 44px;
+  font-weight: normal;
   color: coral;
-  text-decoration:
-  text-transform: 
+  text-decoration: none;
+  text-transform: revert;
   font-family: 
 }
 .becauseULetter {
-      font-size: 
-  font-weight: 
+      font-size: 91px;
+  font-weight: lighter;
   color: coral;
-  text-decoration:
-  text-transform: 
+  text-decoration: none;
+  text-transform: revert-layer;
   font-family: 
 }
 .becauseSLetter {
-      font-size: 
-  font-weight: 
+      font-size: 33px;
+  font-weight: dark;
   color: coral;
-  text-decoration:
-  text-transform: 
+  text-decoration: none;
+  text-transform: unset;
   font-family: 
 }
 .becauseETwoLetter {
-      font-size: 
-  font-weight: 
+      font-size: 88px;
+  font-weight: bold;
   color: coral;
-  text-decoration:
-  text-transform: 
+  text-decoration: none;
+  text-transform: none;
   font-family: 
 }
 
 /* THEY word */
 
 .theyTLetter {
-      font-size: 
-  font-weight: 
+      font-size: 49px;
+  font-weight: bolder;
   color: coral;
-  text-decoration:
-  text-transform: 
+  text-decoration: none;
+  text-transform: lowercase;
   font-family: 
 }
 .theyHLetter {
-      font-size: 
-  font-weight: 
+      font-size: 55px;
+  font-weight: bolder;
   color: coral;
-  text-decoration:
+  text-decoration: none;
   text-transform: 
   font-family: 
 }
 .theyELetter {
-      font-size: 
-  font-weight: 
+      font-size: 87px;
+  font-weight: lighter;
   color: coral;
-  text-decoration:
-  text-transform: 
+  text-decoration: none;
+  text-transform: full-width;
   font-family: 
 }
 .theyYLetter {
-      font-size: 
-  font-weight: 
+      font-size: 27px;
+  font-weight: dark;
   color: coral;
-  text-decoration:
-  text-transform: 
+  text-decoration:underline;
+  text-transform: inherit;
   font-family: 
 }
 
 /* WANTED word */
 
 .wantedWLetter {
-      font-size: 
-  font-weight: 
+      font-size: 61px;
+  font-weight: none;
   color: coral;
-  text-decoration:
-  text-transform: 
+  text-decoration: none;
+  text-transform: initial;
   font-family: 
 }
 .wantedALetter {
-      font-size: 
-  font-weight: 
+      font-size: 42px;
+  font-weight: normal;
   color: coral;
-  text-decoration:
+  text-decoration: none;
   text-transform: 
   font-family: 
 }
 .wantedNLetter {
-      font-size: 
-  font-weight: 
+      font-size:66; 
+  font-weight: bold;
   color: coral;
-  text-decoration:
-  text-transform: 
+  text-decoration: none;
+  text-transform: revert;
   font-family: 
 }
 .wantedTLetter {
-      font-size: 
-  font-weight: 
+      font-size: 34px;
+  font-weight: bolder;
   color: coral;
-  text-decoration:
-  text-transform: 
+  text-decoration: none;
+  text-transform: unset;
   font-family: 
 }
 .wantedELetter {
-      font-size: 
-  font-weight: 
+      font-size: 77px;
+  font-weight: lighter;
   color: coral;
-  text-decoration:
-  text-transform: 
+  text-decoration: none;
+  text-transform: none;
   font-family: 
 }
 .wantedDLetter {
-      font-size: 
-  font-weight: 
+      font-size: 27px;
+  font-weight: dark;
   color: coral;
-  text-decoration:
-  text-transform: 
+  text-decoration: none;
+  text-transform: capitalize;
   font-family: 
 }
 
 /* TO word */
 
 .toTLetter {
-      font-size: 
-  font-weight: 
+      font-size: 93px;
+  font-weight: normal;
   color: coral;
-  text-decoration:
-  text-transform: 
+  text-decoration: underline dotted;
+  text-transform: full-width;
   font-family: 
 }
 .toOLetter {
-      font-size: 
-  font-weight: 
+      font-size: 26px;
+  font-weight: none;
   color: coral;
-  text-decoration:
-  text-transform: 
+  text-decoration: none;
+  text-transform: inherit;
   font-family: 
 }
 
 /* IMPROVE word */
 
 .improveILetter {
-      font-size: 
-  font-weight: 
+      font-size: 64px;
+  font-weight: bold;
   color: coral;
-  text-decoration:
-  text-transform: 
+  text-decoration: none;
+  text-transform: initial;
   font-family: 
 }
 .improveMLetter {
-      font-size: 
-  font-weight: 
+      font-size: 39px;
+  font-weight: bolder;
   color: coral;
-  text-decoration:
-  text-transform: 
+  text-decoration: none;
+  text-transform: revert;
   font-family: 
 }
 .improvePLetter {
-      font-size: 
-  font-weight: 
+      font-size: 78px;
+  font-weight: lighter;
   color: coral;
-  text-decoration:
-  text-transform: 
+  text-decoration: line-through;
+  text-transform: unset;
   font-family: 
 }
 .improveRLetter {
-      font-size: 
-  font-weight: 
+      font-size: 49px;
+  font-weight: dark;
   color: coral;
-  text-decoration:
-  text-transform: 
+  text-decoration: wavy underline;
+  text-transform: none;
   font-family: 
 }
 .improveOLetter {
-      font-size: 
-  font-weight: 
+      font-size: 81px;
+  font-weight: normal;
   color: coral;
-  text-decoration:
-  text-transform: 
+  text-decoration: none;
+  text-transform: capitalize;
   font-family: 
 }
 .improveVLetter {
-      font-size: 
-  font-weight: 
+      font-size: 32px;
+  font-weight: none;
   color: coral;
-  text-decoration:
-  text-transform: 
+  text-decoration: none;
+  text-transform: lowercase;
   font-family: 
 }
 .improveELetter {
-      font-size: 
-  font-weight: 
+      font-size: 86px;
+  font-weight: lighter;
   color: coral;
-  text-decoration:
-  text-transform: 
+  text-decoration: none;
+  text-transform: full-width;
   font-family: 
 }
 
 /* THEIR word */
 
 .theirTLetter {
-      font-size: 
-  font-weight: 
+      font-size: 17px;
+  font-weight: bold;
   color: coral;
-  text-decoration:
-  text-transform: 
+  text-decoration: none;
+  text-transform: revert;
   font-family: 
 }
 .theirHLetter {
-      font-size: 
-  font-weight: 
+      font-size: 72px;
+  font-weight: bolder;
   color: coral;
-  text-decoration:
-  text-transform: 
+  text-decoration: none;
+  text-transform: unset;
   font-family: 
 }
 .theirELetter {
-      font-size: 
-  font-weight: 
+      font-size: 32px;
+  font-weight: lighter;
   color: coral;
-  text-decoration:
-  text-transform: 
+  text-decoration: none;
+  text-transform: none;
   font-family: 
 }
 .theirILetter {
-      font-size: 
-  font-weight: 
+      font-size: 96px;
+  font-weight: normal;
   color: coral;
-  text-decoration:
-  text-transform: 
+  text-decoration: none;
+  text-transform: uppercase;
   font-family: 
 }
 .theirRLetter {
-      font-size: 
-  font-weight: 
+      font-size: 46px;
+  font-weight: none;
   color: coral;
-  text-decoration:
-  text-transform: 
+  text-decoration: none;
+  text-transform: lowercase;
   font-family: 
 }
 
 /* ROOT word */
 
 .rootRLetter {
-      font-size: 
-  font-weight: 
+      font-size: 76px;
+  font-weight: dark;
   color: coral;
-  text-decoration:
-  text-transform: 
+  text-decoration: none;
+  text-transform: full-width;
   font-family: 
 }
 .rootOLetter {
-      font-size: 
-  font-weight: 
+      font-size: 16px;
+  font-weight: bold;
   color: coral;
-  text-decoration:
-  text-transform: 
+  text-decoration:underline overline;
+  text-transform: inherit;
   font-family: 
 }
 .rootOTwoLetter {
-      font-size: 
-  font-weight: 
+      font-size: 86px;
+  font-weight: bolder;
   color: coral;
-  text-decoration:
-  text-transform: 
+  text-decoration: none;
+  text-transform: initial;
   font-family: 
 }
 .rootTLetter {
-      font-size: 
-  font-weight: 
+      font-size: 32px;
+  font-weight: lighter;
   color: coral;
-  text-decoration:
-  text-transform: 
+  text-decoration: none;
+  text-transform: revert;
   font-family: 
 }
 
 /* SKILLS word */
 
 .skillsSLetter {
-      font-size: 
-  font-weight: 
+      font-size: 92px;
+  font-weight: none;
   color: coral;
-  text-decoration:
-  text-transform: 
+  text-decoration: none;
+  text-transform: unset;
   font-family: 
 }
 .skillsKLetter {
-      font-size: 
-  font-weight: 
+      font-size: 42px;
+  font-weight: normal;
   color: coral;
-  text-decoration:
-  text-transform: 
+  text-decoration: none;
+  text-transform: none;
   font-family: 
 }
 .skillsILetter {
-      font-size: 
-  font-weight: 
+      font-size: 83px;
+  font-weight: none;
   color: coral;
-  text-decoration:
-  text-transform: 
+  text-decoration:line-through;
+  text-transform: uppercase;
   font-family: 
 }
 .skillsLLetter {
-      font-size: 
-  font-weight: 
+      font-size: 21px;
+  font-weight: dark;
   color: coral;
-  text-decoration:
-  text-transform: 
+  text-decoration: overline;
+  text-transform: lowercase;
   font-family: 
 }
 .skillsLTwoLetter {
-      font-size: 
-  font-weight: 
+      font-size: 71px;
+  font-weight: bold;
   color: coral;
-  text-decoration:
-  text-transform: 
+  text-decoration: line-through;
+  text-transform: full-width;
   font-family: 
 }
 .skillsSTwoLetter {
-      font-size: 
-  font-weight: 
+      font-size: 33px;
+  font-weight: bolder;
   color: coral;
-  text-decoration:
-  text-transform: 
+  text-decoration: none;
+  text-transform: unset;
   font-family: 
 }
 
 /* SYMBOLS */
 
 .hyphen {
-      font-size: 
-  font-weight: 
+      font-size: 54px;
+  font-weight: lighter;
   color: coral;
   text-decoration:
-  text-transform: 
+  text-transform: none;
   font-family: 
 }
 .exclamation-mark {
-      font-size: 
-  font-weight: 
+      font-size: 29;
+  font-weight: normal;
   color: coral;
-  text-decoration:
-  text-transform: 
+  text-decoration: dashed underline;
+  text-transform: capitalize;
   font-family: 
 }
 .question-mark {
-      font-size: 
-  font-weight: 
+      font-size: 77px;
+  font-weight: none;
   color: coral;
-  text-decoration:
-  text-transform: 
+  text-decoration: line-through;
+  text-transform: none;
   font-family: 
 }
