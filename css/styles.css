@@ -243,7 +243,7 @@ body {
   color: rgb(224, 7, 36);
   text-decoration:overline;
   text-transform: none;
-  font-family: 
+  font-family: Times;
 }
 .developerEThreeLetter {
      font-size: 19px;
@@ -251,7 +251,7 @@ body {
   color: hsl(96.32, 35%, 22%);
   text-decoration: underline;
   text-transform: capitalize;
-  font-family: 
+  font-family: Arial, Helvetica, sans-serif;
 }
 .developerRLetter {
      font-size: 50;
@@ -259,7 +259,7 @@ body {
   color: #8f9530;
   text-decoration: none;
   text-transform: lowercase;
-  font-family: 
+  font-family: Comic;
 }
 
 /* TAKE word */
@@ -270,7 +270,7 @@ body {
   color: rgb(5, 191, 110);
   text-decoration: none;
   text-transform: full-width;
-  font-family: 
+  font-family: courier;
 }
 .takeALetter {
      font-size: 38px;
@@ -278,7 +278,7 @@ body {
   color: #f2a65a;
   text-decoration: none;
   text-transform: none;
-  font-family: 
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 .takeKLetter {
      font-size: 88px;
@@ -286,15 +286,15 @@ body {
   color: hsl(101.46, 78%, 75%);
   text-decoration: none;
   text-transform: capitalize;
-  font-family: 
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 .takeELetter {   
   font-size: 55px;
   font-weight: bolder;
   color: rgb(139, 192, 85);
   text-decoration: none;
-  text-transform: 
-  font-family: 
+  text-transform: lowercase;
+  font-family:sans-serif;
 }
 
 /* UP word */
@@ -305,7 +305,7 @@ body {
   color: #8bf1f1;
   text-decoration: underline dotted;
   text-transform: lowercase;
-  font-family: 
+  font-family: Tahoma;
 }
 .upPLetter {
      font-size: 26px;
@@ -313,7 +313,7 @@ body {
   color: rgb(45, 228, 157);
   text-decoration: none;
   text-transform: lowercase;
-  font-family: 
+  font-family: Arial, sans-serif;
 }
 
 /* GARDENING word */
@@ -324,7 +324,7 @@ body {
   color: hsl(286.44, 83%, 42%);
   text-decoration: none;
   text-transform: capitalize;
-  font-family: 
+  font-family: Arial, Helvetica, sans-serif;
 }
 .gardeningALetter {
      font-size: 26px;
@@ -332,7 +332,7 @@ body {
   color: #b7ef9e;
   text-decoration: none;
   text-transform: none;
-  font-family: 
+  font-family: Times, serif;
 }
 .gardeningRLetter {
      font-size: 69px;
@@ -340,7 +340,7 @@ body {
   color: rgb(185, 59, 171);
   text-decoration: none;
   text-transform: inherit;
-  font-family: 
+  font-family: Andale monospace;
 }
 .gardeningDLetter {
      font-size: 22px;
@@ -348,7 +348,7 @@ body {
   color: hsl(254.14, 75%, 64%);
   text-decoration: none;
   text-transform: initial;
-  font-family: 
+  font-family: cursive;
 }
 .gardeningELetter {
      font-size: 82px;
@@ -356,15 +356,15 @@ body {
   color: #063139;
   text-decoration: none;
   text-transform: revert;
-  font-family: 
+  font-family: Impact, fantasy;
 }
 .gardeningNLetter {
      font-size: 46px;
   font-weight: none;
   color: rgb(122, 129, 202);
   text-decoration: none;
-  text-transform: 
-  font-family: 
+  text-transform: none;
+  font-family: New Centry Schoolbook, serif;
 }
 .gardeningILetter {
      font-size: 71px;
@@ -372,7 +372,7 @@ body {
   color: hsl(8.91, 98%, 60%);
   text-decoration:wavy underline;
   text-transform: unset;
-  font-family: 
+  font-family: monospace;
 }
 .gardeningNTwoLetter {
       font-size: 15px;
@@ -380,7 +380,7 @@ body {
   color: #128d26;
   text-decoration: none;
   text-transform: capitalize;
-  font-family: 
+  font-family: florance, cursive;
 }
 .gardeningGTwoLetter {
       font-size: 25px;
@@ -388,7 +388,7 @@ body {
   color: rgb(170, 241, 21);
   text-decoration: none;
   text-transform: lowercase;
-  font-family: 
+  font-family: Oldtown, fantasy;
 }
 
 /* BECAUSE word */
@@ -399,7 +399,7 @@ body {
   color: hsl(66.91, 76%, 43%);
   text-decoration: none;
   text-transform: full-width;
-  font-family: 
+  font-family: Palatino, serif;
 }
 .becauseELetter {
       font-size: 15px;
@@ -407,7 +407,7 @@ body {
   color: #08b1fa;
   text-decoration: none;
   text-transform: inherit;
-  font-family: 
+  font-family: emoji;
 }
 .becauseCLetter {
       font-size: 61px;
@@ -415,7 +415,7 @@ body {
   color: rgb(252, 139, 88);
   text-decoration: underline overline;
   text-transform: inital;
-  font-family: 
+  font-family: fangson;
 }
 .becauseALetter {
       font-size: 44px;
@@ -423,7 +423,7 @@ body {
   color: hsl(206.37, 82%, 78%);
   text-decoration: none;
   text-transform: revert;
-  font-family: 
+  font-family: Times;
 }
 .becauseULetter {
       font-size: 91px;
@@ -431,7 +431,7 @@ body {
   color: #be06fb;
   text-decoration: none;
   text-transform: revert;
-  font-family: 
+  font-family: "Lucida Console", 'Courier New', Courier, monospace;
 }
 .becauseSLetter {
       font-size: 33px;
@@ -439,15 +439,15 @@ body {
   color: rgb(15, 60, 137);
   text-decoration: none;
   text-transform: unset;
-  font-family: 
+  font-family: cursive; 
 }
 .becauseETwoLetter {
       font-size: 88px;
   font-weight: bold;
-  color: hsl(52.62, 54%, 56%)
+  color: hsl(52.62, 54%, 56%);
   text-decoration: none;
   text-transform: none;
-  font-family: 
+  font-family: fantasy;
 }
 
 /* THEY word */
@@ -458,23 +458,23 @@ body {
   color: #7f3be9;
   text-decoration: none;
   text-transform: lowercase;
-  font-family: 
+  font-family: math;
 }
 .theyHLetter {
       font-size: 55px;
   font-weight: bolder;
   color: rgb(50, 120, 39);
   text-decoration: none;
-  text-transform: 
-  font-family: 
+  text-transform: none;
+  font-family: serif;
 }
 .theyELetter {
       font-size: 87px;
   font-weight: lighter;
-  color: hsl(55.65, 42%, 32%)
+  color: hsl(55.65, 42%, 32%);
   text-decoration: none;
   text-transform: full-width;
-  font-family: 
+  font-family: system-ui;
 }
 .theyYLetter {
       font-size: 27px;
@@ -482,7 +482,7 @@ body {
   color: rgb(110, 160, 183);
   text-decoration:underline;
   text-transform: inherit;
-  font-family: 
+  font-family: inherit;
 }
 
 /* WANTED word */
@@ -493,15 +493,15 @@ body {
   color: hsl(281.25, 45%, 58%);
   text-decoration: none;
   text-transform: initial;
-  font-family: 
+  font-family: serif;
 }
 .wantedALetter {
       font-size: 42px;
   font-weight: normal;
   color: #7497e2;
   text-decoration: none;
-  text-transform: 
-  font-family: 
+  text-transform: none;
+  font-family: monospace;
 }
 .wantedNLetter {
       font-size:66; 
@@ -509,7 +509,7 @@ body {
   color: rgb(57, 77, 59);
   text-decoration: none;
   text-transform: revert;
-  font-family: 
+  font-family: fantasy;
 }
 .wantedTLetter {
       font-size: 34px;
@@ -517,7 +517,7 @@ body {
   color: hsl(54.83, 25%, 54%);
   text-decoration: none;
   text-transform: unset;
-  font-family: 
+  font-family: ui-rounded;
 }
 .wantedELetter {
       font-size: 77px;
@@ -525,7 +525,7 @@ body {
   color: 	#898e41;
   text-decoration: none;
   text-transform: none;
-  font-family: 
+  font-family: revert;
 }
 .wantedDLetter {
       font-size: 27px;
@@ -533,7 +533,7 @@ body {
   color: rgb(233, 195, 178);
   text-decoration: none;
   text-transform: capitalize;
-  font-family: 
+  font-family: fantasy;
 }
 
 /* TO word */
@@ -544,15 +544,15 @@ body {
   color: #45c9ba;
   text-decoration: underline dotted;
   text-transform: full-width;
-  font-family: 
+  font-family: fangsong;
 }
 .toOLetter {
       font-size: 26px;
   font-weight: none;
-  color: rgb(150, 227, 225)
+  color: rgb(150, 227, 225);
   text-decoration: none;
   text-transform: inherit;
-  font-family: 
+  font-family: revert;
 }
 
 /* IMPROVE word */
@@ -560,10 +560,10 @@ body {
 .improveILetter {
       font-size: 64px;
   font-weight: bold;
-  color: hsl(226.15, 46%, 27%)
+  color: hsl(226.15, 46%, 27%);
   text-decoration: none;
   text-transform: initial;
-  font-family: 
+  font-family: unset;
 }
 .improveMLetter {
       font-size: 39px;
@@ -571,15 +571,15 @@ body {
   color: #6f0d7f;
   text-decoration: none;
   text-transform: revert;
-  font-family: 
+  font-family: cursive;
 }
 .improvePLetter {
       font-size: 78px;
   font-weight: lighter;
-  color: rgb(235, 19, 20)
+  color: rgb(235, 19, 20);
   text-decoration: line-through;
   text-transform: unset;
-  font-family: 
+  font-family: initial;
 }
 .improveRLetter {
       font-size: 49px;
@@ -587,7 +587,7 @@ body {
   color: hsl(124.21, 98%, 23%);
   text-decoration: wavy underline;
   text-transform: none;
-  font-family: 
+  font-family: emoji;
 }
 .improveOLetter {
       font-size: 81px;
@@ -595,7 +595,7 @@ body {
   color: #288450;
   text-decoration: none;
   text-transform: capitalize;
-  font-family: 
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 .improveVLetter {
       font-size: 32px;
@@ -603,7 +603,7 @@ body {
   color: rgb(101, 221, 59);
   text-decoration: none;
   text-transform: lowercase;
-  font-family: 
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .improveELetter {
       font-size: 86px;
@@ -611,7 +611,7 @@ body {
   color: hsl(305.93, 93%, 34%);
   text-decoration: none;
   text-transform: full-width;
-  font-family: 
+  font-family: 'Times New Roman', Times, serif;
 }
 
 /* THEIR word */
@@ -622,7 +622,7 @@ body {
   color: #86913f;
   text-decoration: none;
   text-transform: revert;
-  font-family: 
+  font-family: sansserif;
 }
 .theirHLetter {
       font-size: 72px;
@@ -630,7 +630,7 @@ body {
   color: rgb(123, 60, 104);
   text-decoration: none;
   text-transform: unset;
-  font-family: 
+  font-family: monospace;
 }
 .theirELetter {
       font-size: 32px;
@@ -638,7 +638,7 @@ body {
   color: hsl(208.09, 83%, 56%);
   text-decoration: none;
   text-transform: none;
-  font-family: 
+  font-family: cursive;
 }
 .theirILetter {
       font-size: 96px;
@@ -646,7 +646,7 @@ body {
   color: #89b46b;
   text-decoration: none;
   text-transform: uppercase;
-  font-family: 
+  font-family: fantasy;
 }
 .theirRLetter {
       font-size: 46px;
@@ -654,7 +654,7 @@ body {
   color: rgb(29, 99, 182);
   text-decoration: none;
   text-transform: lowercase;
-  font-family: 
+  font-family: emogi;
 }
 
 /* ROOT word */
@@ -665,7 +665,7 @@ body {
   color: hsl(339.3, 60%, 54%);
   text-decoration: none;
   text-transform: full-width;
-  font-family: 
+  font-family: fangsong;
 }
 .rootOLetter {
       font-size: 16px;
@@ -673,7 +673,7 @@ body {
   color: #cc4614;
   text-decoration:underline overline;
   text-transform: inherit;
-  font-family: 
+  font-family: serif;
 }
 .rootOTwoLetter {
       font-size: 86px;
@@ -681,7 +681,7 @@ body {
   color: rgb(24, 70, 130);
   text-decoration: none;
   text-transform: initial;
-  font-family: 
+  font-family: sanserif;
 }
 .rootTLetter {
       font-size: 32px;
@@ -689,7 +689,7 @@ body {
   color: #188b82;
   text-decoration: none;
   text-transform: revert;
-  font-family: 
+  font-family: monospace;
 }
 
 /* SKILLS word */
@@ -700,7 +700,7 @@ body {
   color: rgb(126, 199, 224);
   text-decoration: none;
   text-transform: unset;
-  font-family: 
+  font-family: cursive;
 }
 .skillsKLetter {
       font-size: 42px;
@@ -708,7 +708,7 @@ body {
   color: hsl(33.02, 61%, 69%);
   text-decoration: none;
   text-transform: none;
-  font-family: 
+  font-family: fantasy;
 }
 .skillsILetter {
       font-size: 83px;
@@ -716,7 +716,7 @@ body {
   color: #751a69;
   text-decoration:line-through;
   text-transform: uppercase;
-  font-family: 
+  font-family: fangsong;
 }
 .skillsLLetter {
       font-size: 21px;
@@ -724,7 +724,7 @@ body {
   color: rgb(64, 240, 143);
   text-decoration: overline;
   text-transform: lowercase;
-  font-family: 
+  font-family: serif;
 }
 .skillsLTwoLetter {
       font-size: 71px;
@@ -732,7 +732,7 @@ body {
   color: hsl(150.38, 70%, 55%);
   text-decoration: line-through;
   text-transform: full-width;
-  font-family: 
+  font-family: sansserif;
 }
 .skillsSTwoLetter {
       font-size: 33px;
@@ -740,7 +740,7 @@ body {
   color: #193aa2;
   text-decoration: none;
   text-transform: unset;
-  font-family: 
+  font-family: cursive;
 }
 
 /* SYMBOLS */
@@ -749,9 +749,9 @@ body {
       font-size: 54px;
   font-weight: lighter;
   color: rgb(100, 176, 182);
-  text-decoration:
+  text-decoration:line-through;
   text-transform: none;
-  font-family: 
+  font-family: fantasy
 }
 .exclamation-mark {
       font-size: 29;
@@ -759,7 +759,7 @@ body {
   color: hsl(341.52, 79%, 49%);
   text-decoration: dashed underline;
   text-transform: capitalize;
-  font-family: 
+  font-family: times;
 }
 .question-mark {
       font-size: 77px;
@@ -767,5 +767,5 @@ body {
   color: #bfd81a;
   text-decoration: line-through;
   text-transform: none;
-  font-family: 
+  font-family: fangsong;
 }
