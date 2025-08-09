@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway+Dots&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Kablammo&family=Noto+Sans+JP:wght@100..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&display=swap');
 
 * {
   padding: 0;
@@ -149,6 +149,9 @@ body {
 .frontendOLetter {
      font-size: 20px;
   text-shadow: 5px 0px #558abb;
+   font-family: "Akaya Telivigala", system-ui;
+  font-weight: 400;
+  font-style: normal;
 }
 
 .frontendNLetter {
@@ -313,7 +316,9 @@ body {
   color: rgb(45, 228, 157);
   text-decoration: none;
   text-transform: lowercase;
-  font-family: Arial, sans-serif;
+   font-family: "Akaya Telivigala", system-ui;
+  font-weight: 400;
+  font-style: normal;
 }
 
 /* GARDENING word */
@@ -579,7 +584,9 @@ body {
   color: rgb(235, 19, 20);
   text-decoration: line-through;
   text-transform: unset;
-  font-family: initial;
+   font-family: "Akaya Telivigala", system-ui;
+  font-weight: 400;
+  font-style: normal;
 }
 .improveRLetter {
       font-size: 49px;
